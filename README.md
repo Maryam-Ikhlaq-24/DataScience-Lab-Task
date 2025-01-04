@@ -1,4 +1,5 @@
 🎓 Data Analysis and Visualization Lab Task 📊
+
  📌 Objective: This repository showcases a comprehensive data analysis and visualization task using Python. The project highlights the application of regular expressions (RE), NumPy, Matplotlib, and NetworkX to gain insights from a dataset.
 
 📂 Steps and Methodology: 📥 Data Loading:
